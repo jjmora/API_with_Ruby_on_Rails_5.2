@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API application with Ruby on Rails 5.2
 
-Things you may want to cover:
+* Ruby version: 2.5.1
 
-* Ruby version
+* Rails version: 5.2
 
-* System dependencies
 
-* Configuration
+Branches:
 
-* Database creation
+* Master: API base application
 
-* Database initialization
+* ToDoApp: API controller "todos_controller.rb" for a ToDo Application
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_by_ www.juanjosemora.es
